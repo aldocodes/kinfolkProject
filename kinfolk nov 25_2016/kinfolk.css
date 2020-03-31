@@ -1,0 +1,118 @@
+.kinfolk{
+	width:85px;
+	margin-top: -24px;
+	margin-left: 50px;
+}
+
+.header{
+	margin-top: 22px;
+}
+
+.menu{
+	float: right;
+	margin-top: -11px;
+	margin-right: 50px;
+}
+
+.menu li{
+	font-family: 'Raleway', sans-serif;
+	display: inline;
+	padding: 10px;
+	margin: 2px;
+	border: 1px solid #dddddd;
+	font-size: 15px;
+}
+
+.menu a{
+	text-decoration: none;
+}
+
+.title{
+	font-size: 100px;
+	text-align: center;
+	font-family: 'Amatic SC', cursive;
+}
+
+.title h1{
+	/* background-image: url(riverbed.jpg); */
+	/* background-repeat: no-repeat; */
+	/* background-size: 1348px 504px; */
+	margin: 0;
+	opacity: 0.9;
+}
+
+.body {
+	margin: 300px;
+	margin-top: 65px;
+}
+
+.bodylist{
+	margin: 118px;
+}
+
+.body h2{
+	font-family: 'Raleway', sans-serif;
+	font-size: 35px; 
+	font-weight: bold;
+}
+
+.bodylist p{
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+}
+
+.bodylist1{
+	border: 1px solid grey;
+	padding: 24px;
+	margin-bottom: 20px;
+}
+
+.bodylist2{
+	border:1px solid grey;
+	padding: 24px;
+	margin-bottom: 20px;
+}
+
+.bodylist3{
+	border:1px solid grey;
+	padding: 24px;
+	margin-bottom: 20px;
+}
+
+.address a{
+	text-decoration: none;
+	color: blue;
+}
+
+.bodylist4{
+	border: 1px solid grey;
+	padding: 24px;
+	margin-bottom: 20px;
+}
+
+.bodylist4 ul{
+	margin: auto 0 9px -31px;
+}
+
+.bodylist4 li{
+	display: inline;
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+}
+
+.bodylist5{
+	border:1px solid grey;
+	padding: 24px;
+	margin-bottom: 100px;
+}
+
+.bodylist5 li{
+	display: inline;
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+}
+
+.health a{
+	text-decoration: none;
+	color: blue;
+}
