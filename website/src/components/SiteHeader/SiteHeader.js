@@ -2,9 +2,12 @@ import React from 'react';
 import './SiteHeader.css';
 
 function SiteHeader() {
-  return(
+  return (
     <div className="site-header">
-      header
+      <p>Home</p>
+      <p>About Us</p>
+      <p>Relief Fund</p>
+      <p>Contact</p>
     </div>
   )
 }
